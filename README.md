@@ -31,8 +31,8 @@ ____！知识无价，禁止私自转载、禁止任何形式的牟利行为 ！
 
 #### 特别鸣谢
 
-1.  Wolken（space.bilibili.com/169651853）
-2.  Double Ninth（space.bilibili.com/1011255496）
+1.  Wolken（github.com/ZWolken）
+2.  Double Ninth（）
 3.  ...
 
 #### 更新说明
