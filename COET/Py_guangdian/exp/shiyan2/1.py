@@ -1,0 +1,5 @@
+num = int(input("请输入一个十进制整数："))
+bin_num = bin(num)
+oct_num = oct(num)
+hex_num = hex(num)
+print("{}的二进制形式是{}、八进制形式是{}、十六进制形式是{}：".format(num, bin_num, oct_num, hex_num))
