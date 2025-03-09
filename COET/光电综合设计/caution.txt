@@ -1,0 +1,2 @@
+prj is the form of easyEDA.
+Please change the footprint before using
